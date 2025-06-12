@@ -1,4 +1,4 @@
-# Dallas Home Search Bot
+# Home Search Bot
 
 This project automates the search for homes in the Dallas-Fort Worth area using Python. It combines real estate APIs with location data to help buyers find homes that meet strict criteria, such as:
 
